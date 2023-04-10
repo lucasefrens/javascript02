@@ -11,6 +11,6 @@ console.log(document.URL);
 
 console.log(document.title);
 
-document.title = 'TÍTULO ALTERADO COM JS'
+document.title = 'TÍTULO ALTERADO'
 
 console.log(document.title)
